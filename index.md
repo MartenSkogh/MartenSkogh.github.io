@@ -3,16 +3,26 @@ layout: home
 title: Home
 ---
 
-# About
+# Welcome to My Page
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am Mårten, currently a PhD student at the Data Science and Modelling group at AstraZeneca, and at the [Rahmlab](https://rahmlab.com/) at Chalmers University of Technology in Gothenburg, Sweden. My research focuses on the use of quantum computing for solving problems in chemistry, with a current focus on non-Born-Oppenheimer dynamics.
 
-This is the home page. It can be used for a short introduction. [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
+My background is in computational physics, but I have a broad set of interests in programming, electronics and science in general. I am also engaged in [Engineers Without Borders Sweden](https://ewb-swe.org), and have been involved for several years.
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Recent Publications
+[__Reference-State Error Mitigation: A Strategy for High Accuracy Quantum Computation of Chemistry__
+Phalgun Lolur, Mårten Skogh, Werner Dobrautz, Christopher Warren, Janka Biznárová, Amr Osman, Giovanna Tancredi, Göran Wendin, Jonas Bylander, Martin Rahm; J. Chem. Theory Comput. 2023, 19, 3, 783–789; 10.1021/acs.jctc.2c00807](https://doi.org/10.1021/acs.jctc.2c00807)
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
+[__A quantum computing implementation of nuclear-electronic orbital (NEO) theory: Toward an exact pre-Born–Oppenheimer formulation of molecular quantum systems__
+Arseny Kovyrshin, Mårten Skogh, Anders Broo, Stefano Mensa, Emre Sahin, Jason Crain, Ivano Tavernelli; J. Chem. Phys. 7 June 2023; 158 (21): 214119; 10.1063/5.0150291](https://doi.org/10.1063/5.0150291)
 
-{% include archive.html %}
+[__Accelerating Variational Quantum Eigensolver Convergence using Parameter Transfer__
+Mårten Skogh, Oskar Leinonen, Phalgun Lolur, Martin Rahm; Electronic Structure; 10.1088/2516-1075/ace86d](https://doi.org/10.1088/2516-1075/ace86d)
+
+[__Nonadiabatic nuclear-electron dynamics: a quantum computing approach__
+Arseny Kovyrshin, Mårten Skogh, Lars Tornberg, Anders Broo, Stefano Mensa, Emre Sahin, Benjamin C. B. Symons, Jason Crain, Ivano Tavernelli; J. Phys. Chem. Lett; 10.1021/acs.jpclett.3c01589](https://doi.org/10.1021/acs.jpclett.3c01589)
+
+[__Benchmarking the variational quantum eigensolver through simulation of the ground state energy of prebiotic molecules on high-performance computers__
+Lolur, P., Rahm, M., Skogh, M., García-Álvarez, L. and Wendin, G., 2021, June. In AIP Conference Proceedings (Vol. 2362, No. 1). AIP Publishing; 10.1063/5.0054915](https://doi.org/10.1063/5.0054915)
+
