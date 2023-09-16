@@ -26,5 +26,3 @@ Arseny Kovyrshin, Mårten Skogh, Lars Tornberg, Anders Broo, Stefano Mensa, Emre
 [__Benchmarking the variational quantum eigensolver through simulation of the ground state energy of prebiotic molecules on high-performance computers__
 Lolur, P., Rahm, M., Skogh, M., García-Álvarez, L. and Wendin, G., 2021, June. In AIP Conference Proceedings (Vol. 2362, No. 1). AIP Publishing; 10.1063/5.0054915](https://doi.org/10.1063/5.0054915)
 
-
-{% include archive.html %}
