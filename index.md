@@ -5,9 +5,11 @@ title: Home
 
 # Welcome to My Page
 
-I am Mårten, currently a PhD student at the Data Science and Modelling group at AstraZeneca, and at the [Rahmlab](https://rahmlab.com/) at Chalmers University of Technology in Gothenburg, Sweden. My research focuses on the use of quantum computing for solving problems in chemistry, with a current focus on non-Born-Oppenheimer dynamics.
+Hello there! I am Mårten. Currently working on quantum computing and quantum testing at Chalmers Next Labs. Doing a bit of everything: coding, ML, lab work, IT, and outreach.
 
-My background is in computational physics, but I have a broad set of interests in programming, electronics and science in general. I am also engaged in [Engineers Without Borders Sweden](https://ewb-swe.org), and have been involved for several years.
+Previously I did an industrial PhD in quantum computing for ab-initio quantum chemistry at AstraZeneca and Chalmers University of Technology. My research focused on the use of quantum computing for solving problems in chemistry, with a later focus on non-Born-Oppenheimer dynamics.
+
+My background is in computational physics, but I have a broad set of interests in programming, electronics, and science in general. Not a heavy user of my personal Github, but sometimes I do make a push or two.
 
 
 ## Recent Publications
